@@ -1,5 +1,5 @@
 data:
-    env: config-single-dev
-    user:
-        username: eureka-client-user
-        password: 1008610086
+  env: localhost-dev-edit888
+  user:
+    username: fengzheng-dev999
+    password: password-dev
