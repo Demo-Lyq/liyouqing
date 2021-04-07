@@ -1,5 +1,6 @@
+  
 data:
-    env: config-single-prod
-    user:
-        username: eureka-client-user
-        password: 1008610086
+  env: localhost-online
+  user:
+    username: fengzheng-online
+    password: password-online
