@@ -1,13 +1,13 @@
 ---
 server:
-  port: 8200
+  port: 3301
 spring:
   profiles: dev
   application:
     name: springcloud-config-server
 ---
 server:
-  port: 8201
+  port: 3302
 spring:
   profiles: test
   application:
